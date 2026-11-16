@@ -103,3 +103,4 @@ projet_rc_euler/
 ## Remarque
 
 Ce projet illustre l'utilisation de Python pour relier un modèle physique, une méthode numérique et une représentation graphique.
+![Charge du condensateur RC](charge_condensateur.png)
